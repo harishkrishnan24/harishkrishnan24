@@ -4,10 +4,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻&nbsp; I am a Software Engineer with more than four years of experience.
-📚&nbsp; Never stop learning! (Motto)
-😎&nbsp; Always learning new things
-🧱&nbsp; Trying to improve the craftsmanship in the Art of Software Development
+💻&nbsp; I am a Software Engineer with more than four years of experience.<br>
+📚&nbsp; Never stop learning! (Motto)<br>
+😎&nbsp; Always learning new things<br>
+🧱&nbsp; Trying to improve the craftsmanship in the Art of Software Development<br>
 
 <img alt="Coder" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" align="right"/>
 
