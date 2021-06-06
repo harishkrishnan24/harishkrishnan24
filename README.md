@@ -12,9 +12,9 @@
 <img alt="Coder" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
-<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" />
-<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="ReactJS" />
-<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="VueJS" />
+<img src="https://img.icons8.com/color/48/000000/angularjs.png" alt="Angular" align="left" />
+<img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="ReactJS" align="left" />
+<img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="VueJS" align="left" />
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="Javascript" />
 <br>
 <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="Typescript" />
