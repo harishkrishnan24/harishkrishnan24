@@ -1,1 +1,1 @@
-<img alt="Harish Krishnan Banner" src="./assets/harishkrishnan.jpeg" width="200" height="200" />
+<img alt="Harish Krishnan Banner" src="./assets/harishkrishnan.jpeg" width="200" height="200" align="center" />
