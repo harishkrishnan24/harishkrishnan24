@@ -1,1 +1,1 @@
-![Harish Krishnan Banner](https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/master/assets/harishkrishnan.jpeg)
+<img alt="Harish Krishnan Banner" src="./assets/harishkrishnan.jpeg" width="200" height="200" />
