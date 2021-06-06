@@ -40,6 +40,7 @@
 </a>
 </p>
 <br>
+
 ### 🔗&nbsp; Connect with me
 <p align="center">
 <a href="https://harishkrishnan24.github.io/me/" target="_blank"><img src="https://img.shields.io/badge/-harishkrishnan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
