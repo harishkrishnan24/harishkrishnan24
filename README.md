@@ -39,7 +39,7 @@
   <img height="180em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&langs_count=8&theme=dracula"/>
 </a>
 </p>
-
+<br>
 ### 🔗&nbsp; Connect with me
 <p align="center">
 <a href="https://harishkrishnan24.github.io/me/" target="_blank"><img src="https://img.shields.io/badge/-harishkrishnan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
