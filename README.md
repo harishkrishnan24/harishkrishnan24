@@ -42,11 +42,11 @@
 
 ### 🔗&nbsp; Connect with me
 <p align="center">
-<a href="https://harishkrishnan24.github.io/me/"><img src="https://img.shields.io/badge/-harishkrishnan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/harishkrishnan1993/"><img src="https://img.shields.io/badge/-Harish%20Krishnan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:harishkrishnan1993@gmail.com"><img src="https://img.shields.io/badge/-harishkrishnan1993@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/harishkrishnan/"><img src="https://img.shields.io/badge/-@harishkrishnan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/harish.krishnan.946"><img src="https://img.shields.io/badge/-@harish.krishnan.946-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-<a href="https://stackoverflow.com/users/7962294/k-harish"><img src="https://img.shields.io/badge/StackOverflow-harish--k-orange"/></a>
-<a href="https://harishkrishnan1993.medium.com/"><img src="https://img.shields.io/badge/Medium%20Blog-harishkrishnan1993-black"/></a>
+<a href="https://harishkrishnan24.github.io/me/" target="_blank"><img src="https://img.shields.io/badge/-harishkrishnan.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harishkrishnan1993/" target="_blank"><img src="https://img.shields.io/badge/-Harish%20Krishnan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:harishkrishnan1993@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-harishkrishnan1993@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/harishkrishnan/" target="_blank"><img src="https://img.shields.io/badge/-@harishkrishnan-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.facebook.com/harish.krishnan.946" target="_blank"><img src="https://img.shields.io/badge/-@harish.krishnan.946-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/7962294/k-harish" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-harish--k-orange"/></a>
+<a href="https://harishkrishnan1993.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium%20Blog-harishkrishnan1993-black"/></a>
 </p>
