@@ -1,10 +1,10 @@
 <img alt="Harish Krishnan Banner" src="./assets/harishkrishnan.jpeg" width="200" height="200" />
 
-## 👋 &nbsp;Hello, I am Harish Krishnan, Software Engineer
+## 👋 &nbsp; Hello, I am Harish Krishnan, Software Engineer
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💻&nbsp; I am a Software Engineer with more than four years of experience.<br>
+💻&nbsp; I am a Software Engineer with seven years of industry experience.<br>
 📚&nbsp; Never stop learning! (Motto)<br>
 😎&nbsp; Always learning new things<br>
 🧱&nbsp; Trying to improve the craftsmanship in the Art of Software Development<br>
