@@ -23,14 +23,15 @@
 ![Spring](https://img.icons8.com/color/48/000000/spring-logo.png)&nbsp;
 ![Golang](https://img.icons8.com/color/48/000000/golang.png)&nbsp;
 ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)&nbsp;
-![Flutter](https://img.icons8.com/color/48/000000/flutter.png)&nbsp;
 ![Ansible](https://img.icons8.com/color/48/000000/ansible.png)&nbsp;
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)&nbsp;
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)&nbsp;
-![Dart](https://img.icons8.com/color/48/000000/dart.png)\
 ![Java](https://img.icons8.com/nolan/48/java-coffee-cup-logo.png)&nbsp;
 ![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png)&nbsp;
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)&nbsp;
+![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)&nbsp;
+![NestJS](https://img.icons8.com/color/48/000000/nextjs.png)&nbsp;
+![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)&nbsp;
 
 ### 🧮 &nbsp;GitHub Analytics
 
