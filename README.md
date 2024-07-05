@@ -27,11 +27,10 @@
 ![Redux](https://img.icons8.com/color/48/000000/redux.png)&nbsp;
 ![GraphQL](https://img.icons8.com/color/48/000000/graphql.png)&nbsp;
 ![Java](https://img.icons8.com/nolan/48/java-coffee-cup-logo.png)&nbsp;
-![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png)&nbsp;
+![MySQL](https://img.icons8.com/fluent/48/000000/mysql-logo.png)\
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)&nbsp;
 ![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)&nbsp;
-![NestJS](https://img.icons8.com/color/48/000000/nextjs.png)&nbsp;
-![NestJS](https://img.icons8.com/color/48/000000/nestjs.png)&nbsp;
+![NextJS](https://img.icons8.com/color/48/000000/nextjs.png)&nbsp;
 
 ### 🧮 &nbsp;GitHub Analytics
 
