@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/harishkrishnan24"><img src="./devcard.png" width="356" alt="Harish's Dev Card"/></a>
+<a href="https://app.daily.dev/harishkrishnan24?type=wide"><img src="./devcard.png" width="356" alt="Harish's Dev Card"/></a>
 
 ## 👋 &nbsp; Hello, I am Harish Krishnan, Software Engineer
 
