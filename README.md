@@ -120,17 +120,7 @@ roles:
 
 <br/>
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-contribution-stats.vercel.app/api/?username=harishkrishnan24&theme=tokyonight" alt="Contribution Stats"/>
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies"/>
-</p>
+## 📊 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
