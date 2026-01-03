@@ -95,31 +95,33 @@ roles:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&icon_color=4C8EDA&text_color=ffffff&border_radius=15&include_all_commits=true&count_private=true" width="49.5%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=react&hide_border=true&background=0D1117&ring=2E5BFF&fire=FF6B6B&currStreakLabel=4C8EDA&border_radius=15" width="49.5%" alt="GitHub Streak"/>
+</p>
 
-<a href="https://github.com/harishkrishnan24">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&icon_color=4C8EDA&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/harishkrishnan24">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=react&hide_border=true&background=0D1117&ring=2E5BFF&fire=FF6B6B&currStreakLabel=4C8EDA&border_radius=10" alt="GitHub Streak"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&border_radius=15&langs_count=6&size_weight=0.5&count_weight=0.5" width="38%" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&custom_title=Contribution%20Timeline&bg_color=0D1117&color=4C8EDA&line=2E5BFF&point=FF6B6B&area=true&hide_border=true&radius=15" width="60%" alt="Contribution Graph"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishkrishnan24&theme=react" width="100%" alt="Profile Summary"/>
+</p>
 
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&custom_title=Contribution%20Graph&bg_color=0D1117&color=4C8EDA&line=2E5BFF&point=4C8EDA&area=true&hide_border=true&border_radius=10" alt="Contribution Graph"/>
-</div>
-
-<details>
-<summary>🏆 GitHub Achievements</summary>
+<details align="center">
+<summary><b>🏆 GitHub Achievements & More Stats</b></summary>
 <br/>
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
-</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harishkrishnan24&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&border_radius=15&layout=compact" width="49%" alt="Coding Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harishkrishnan24&repo=harishkrishnan24&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&icon_color=4C8EDA&border_radius=15" width="49%" alt="Featured Repo"/>
+</p>
+
 </details>
 
 <br/>
