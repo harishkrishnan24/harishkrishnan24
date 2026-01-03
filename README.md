@@ -3,12 +3,20 @@
 <!-- Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20Krishnan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;7%2B+Years+Building+Scalable+Systems;AI+%7C+Distributed+Systems+%7C+Cloud" alt="Typing SVG" />
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=harishkrishnan24&color=2e5bff&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/harishkrishnan24?style=for-the-badge&color=2e5bff&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/harishkrishnan24?style=for-the-badge&color=2e5bff&logo=github)
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;7%2B+Years+Building+Scalable+Systems;AI+%7C+Distributed+Systems+%7C+Cloud" alt="Typing SVG" />
+
+<br/>
+<br/>
+
+<!-- Profile Stats -->
+<p>
+<img src="https://komarev.com/ghpvc/?username=harishkrishnan24&color=2e5bff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/harishkrishnan24?style=flat-square&color=2e5bff&logo=github&label=Followers" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/harishkrishnan24?style=flat-square&color=2e5bff&logo=github&label=Stars" alt="Stars"/>
+</p>
 
 </div>
 
@@ -90,39 +98,6 @@ roles:
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&icon_color=4C8EDA&text_color=ffffff&border_radius=15&include_all_commits=true&count_private=true" width="49.5%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=react&hide_border=true&background=0D1117&ring=2E5BFF&fire=FF6B6B&currStreakLabel=4C8EDA&border_radius=15" width="49.5%" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=donut&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&border_radius=15&langs_count=6&size_weight=0.5&count_weight=0.5" width="38%" alt="Top Languages"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&custom_title=Contribution%20Timeline&bg_color=0D1117&color=4C8EDA&line=2E5BFF&point=FF6B6B&area=true&hide_border=true&radius=15" width="60%" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harishkrishnan24&theme=react" width="100%" alt="Profile Summary"/>
-</p>
-
-<details align="center">
-<summary><b>🏆 GitHub Achievements & More Stats</b></summary>
-<br/>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harishkrishnan24&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&border_radius=15&layout=compact" width="49%" alt="Coding Activity"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=harishkrishnan24&repo=harishkrishnan24&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&icon_color=4C8EDA&border_radius=15" width="49%" alt="Featured Repo"/>
-</p>
-
-</details>
 
 <br/>
 
