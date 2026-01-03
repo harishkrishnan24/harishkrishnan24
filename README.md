@@ -123,7 +123,7 @@ roles:
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24)
 </div>
 
 <br/>
