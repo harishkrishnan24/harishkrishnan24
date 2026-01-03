@@ -96,7 +96,7 @@ roles:
 
 <br/>
 
-## 🌐 Connect & Explore
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -116,19 +116,25 @@ roles:
   <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
 </a>
 
-<br/>
-<br/>
-
-### 📝 Latest from Medium
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<a href="https://harishkrishnan1993.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
-</a>
-
 </div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-contribution-stats.vercel.app/api/?username=harishkrishnan24&theme=tokyonight" alt="Contribution Stats"/>
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</p>
 
 ---
 
