@@ -123,7 +123,7 @@ roles:
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harishkrishnan24&theme=tokyonight" alt="Top Languages by Commit"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 </div>
 
 <br/>
