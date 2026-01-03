@@ -122,9 +122,11 @@ roles:
 
 ## 📊 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400" alt="Top Languages"/>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake-dark.svg" alt="Snake Animation" width="100%"/>
