@@ -1,0 +1,32 @@
+name: Generate Snake Contribution Graph
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: harishkrishnan24
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+      
+      - name: Commit and Push
+        run: |
+          git config --local user.email "harishkrishnan1993@gmail.com"
+          git config --local user.name "harishkrishnan24"
+          git add github-snake*.svg
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update contribution snake" && git push)
