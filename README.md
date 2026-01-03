@@ -1,106 +1,179 @@
 <div align="center">
 
-# Hi, I'm Harish Krishnan 👋
+<!-- Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harish%20Krishnan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Distributed+Systems+Enthusiast;Open+Source+Contributor;Building+Scalable+Solutions" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;7%2B+Years+Building+Scalable+Systems;AI+%7C+Distributed+Systems+%7C+Cloud" alt="Typing SVG" />
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=harishkrishnan24&color=2e5bff&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=harishkrishnan24&color=2e5bff&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/harishkrishnan24?style=for-the-badge&color=2e5bff&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/harishkrishnan24?style=for-the-badge&color=2e5bff&logo=github)
 
 </div>
 
----
+<br/>
+
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## 👨‍💻 About Me
 
-<img align="right" src="./assets/harishkrishnan.jpeg" width="200" style="border-radius: 50%; margin: 0 20px;" alt="Harish Krishnan"/>
+```typescript
+const harish = {
+    role: "Full-Stack Software Engineer",
+    experience: "7+ years",
+    location: "Building the future, one commit at a time",
+    currentFocus: ["AI/ML", "Distributed Systems", "Cloud Architecture"],
+    learning: "Always",
+    interests: ["Scalable Systems", "Open Source", "Tech Writing"],
+    motto: "Crafting elegant solutions to complex problems"
+};
+```
 
-I'm a **Full-Stack Software Engineer** with over **7 years** of professional experience in building scalable, high-performance applications. My passion lies in crafting elegant solutions to complex problems and contributing to the open source community.
+### 🎯 What I Do
 
-### What I Do
+```yaml
+roles:
+  - Design & develop full-stack applications
+  - Build scalable cloud-native solutions  
+  - Explore AI/ML integration patterns
+  - Architect distributed systems
+  - Contribute to open source
+  - Share knowledge through writing
+```
 
-- 🚀 Design and develop full-stack applications with modern frameworks
-- 🤖 Explore AI/ML integration and distributed systems architecture
-- 🌐 Build scalable cloud-native solutions
-- 📝 Share knowledge through technical writing
-- 💡 Contribute to open source projects
-
-### Core Expertise
-
-**Languages & Frameworks**
-- Frontend: React.js, Angular, Vue.js, Svelte, Next.js, React Native
-- Backend: Node.js, Nest.js, Go, Rust, Python
-- Data: GraphQL, MongoDB, PostgreSQL
-
-**Technologies**
-- Cloud Platforms: AWS
-- Web Technologies: JavaScript, TypeScript, HTML5, CSS3
-
-### Current Focus
-
-🎯 Deepening expertise in **Artificial Intelligence** and **Distributed Systems**  
-📚 Always learning, always growing  
-🔨 Improving software craftsmanship
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E5BFF&icon_color=2E5BFF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=tokyonight&hide_border=true&background=0D1117&ring=2E5BFF&fire=FF6B6B&currStreakLabel=2E5BFF" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true&title_color=2E5BFF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&theme=tokyo-night&bg_color=0D1117&color=2E5BFF&line=4C8EDA&point=2E5BFF&area=true&hide_border=true" alt="Contribution Graph"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-### 🤝 Find Me On
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishkrishnan1993/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7962294/k-harish)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
-[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/harishkrishnan24)
-[![Portfolio](https://img.shields.io/badge/Portfolio-2E5BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harishkrishnan24.github.io/me/)
+</td>
+<td width="45%" valign="top">
 
 <br/>
 
-### 📝 Recent Blog Posts
+<div align="center">
+<img src="./assets/harishkrishnan.jpeg" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Harish Krishnan"/>
+</div>
+
+<br/>
+
+### 💼 Tech Stack
+
+<div align="center">
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+#### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+#### Data & Cloud
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+
+#### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/harishkrishnan24">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&icon_color=4C8EDA&text_color=ffffff&border_radius=10" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/harishkrishnan24">
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=react&hide_border=true&background=0D1117&ring=2E5BFF&fire=FF6B6B&currStreakLabel=4C8EDA&border_radius=10" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E5BFF&text_color=ffffff&border_radius=10&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&custom_title=Contribution%20Graph&bg_color=0D1117&color=4C8EDA&line=2E5BFF&point=4C8EDA&area=true&hide_border=true&border_radius=10" alt="Contribution Graph"/>
+</div>
+
+<details>
+<summary>🏆 GitHub Achievements</summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies"/>
+</div>
+</details>
+
+<br/>
+
+## 🌐 Connect & Explore
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 Let's Connect
+
+<a href="https://www.linkedin.com/in/harishkrishnan1993/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://harishkrishnan24.github.io/me/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-2E5BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+<br/>
+<a href="https://stackoverflow.com/users/7962294/k-harish" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
+</a>
+<a href="https://harishkrishnan1993.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<br/>
+<a href="https://www.credly.com/users/harish-krishnan.623b2d03" target="_blank">
+  <img src="https://img.shields.io/badge/Credly_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Latest from Medium
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<br/>
+<a href="https://harishkrishnan1993.medium.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Read_More-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
+</a>
 
-### 🎓 Certifications
-
-View my professional certifications and verified badges on [Credly](https://www.credly.com/users/harish-krishnan.623b2d03)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
 <div align="center">
-<sub>💙 Open to interesting opportunities and collaborations</sub>
-<br/>
-<sub>⚡ This profile auto-updates daily with latest contributions and blog posts</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+**💡 Open to interesting opportunities and collaborations**
+
+<sub>⚡ This profile auto-updates daily with fresh content • Last updated: 2026</sub>
+
 </div>
