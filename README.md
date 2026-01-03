@@ -1,165 +1,102 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ██╗███████╗██╗  ██╗    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗ ███╗   ██╗
-██║  ██║██╔══██╗██╔══██╗██║██╔════╝██║  ██║    ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗████╗  ██║
-███████║███████║██████╔╝██║███████╗███████║    █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║██╔██╗ ██║
-██╔══██║██╔══██║██╔══██╗██║╚════██║██╔══██║    ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║
-██║  ██║██║  ██║██║  ██║██║███████║██║  ██║    ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+# Hi, I'm Harish Krishnan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F700&background=0D111700&center=true&vCenter=true&multiline=false&width=800&height=60&lines=whoami+%E2%86%92+Full-Stack+Software+Engineer;cat+interests.txt+%E2%86%92+AI+%7C+Distributed+Systems+%7C+Open+Source;echo+%22Building+scalable+solutions%22" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3000&pause=1000&color=2E5BFF&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;AI+%26+Distributed+Systems+Enthusiast;Open+Source+Contributor;Building+Scalable+Solutions" alt="Typing SVG" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=harishkrishnan24&color=00FF00&style=flat-square&label=PROFILE+VIEWS)
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=harishkrishnan24&color=2e5bff&style=flat&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🖥️ &nbsp;`$ cat about.txt`
+## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="40%" align="center">
+<img align="right" src="./assets/harishkrishnan.jpeg" width="200" style="border-radius: 50%; margin: 0 20px;" alt="Harish Krishnan"/>
 
-```
-┌─────────────────────┐
-│                     │
-│   [AUTHENTICATED]   │
-│                     │
-```
-<img src="./assets/harishkrishnan.jpeg" width="250" alt="Harish Krishnan"/>
+I'm a **Full-Stack Software Engineer** with over **7 years** of professional experience in building scalable, high-performance applications. My passion lies in crafting elegant solutions to complex problems and contributing to the open source community.
 
-```
-│                     │
-│   harish@github     │
-│                     │
-└─────────────────────┘
-```
+### What I Do
 
-</td>
-<td width="60%">
+- 🚀 Design and develop full-stack applications with modern frameworks
+- 🤖 Explore AI/ML integration and distributed systems architecture
+- 🌐 Build scalable cloud-native solutions
+- 📝 Share knowledge through technical writing
+- 💡 Contribute to open source projects
 
-<pre>
-<span style="color:#00FF00">harish@github</span>:<span style="color:#00BFFF">~</span>$ ls -la profile/
-drwxr-xr-x  identity/
-    ├── Full-Stack Software Engineer
-    ├── 7+ years of industry experience
-    ├── Open Source Contributor
-    └── Lifelong Learner
+### Core Expertise
 
-drwxr-xr-x  languages/
-    ├── JavaScript / TypeScript
-    ├── Go
-    ├── Rust
-    ├── Python
-    └── HTML / CSS
+**Languages & Frameworks**
+- Frontend: React.js, Angular, Vue.js, Svelte, Next.js, React Native
+- Backend: Node.js, Nest.js, Go, Rust, Python
+- Data: GraphQL, MongoDB, PostgreSQL
 
-drwxr-xr-x  frontend/
-    ├── React.js
-    ├── Angular
-    ├── Vue.js
-    ├── Svelte
-    ├── Next.js
-    └── React Native
+**Technologies**
+- Cloud Platforms: AWS
+- Web Technologies: JavaScript, TypeScript, HTML5, CSS3
 
-drwxr-xr-x  backend/
-    ├── Node.js
-    ├── Nest.js
-    └── GraphQL
+### Current Focus
 
-drwxr-xr-x  databases/
-    ├── MongoDB
-    └── PostgreSQL
-
-drwxr-xr-x  cloud/
-    └── AWS
-
-drwxr-xr-x  interests/
-    ├── AI / Machine Learning
-    ├── Distributed Systems
-    └── Software Craftsmanship
-
-<span style="color:#00FF00">harish@github</span>:<span style="color:#00BFFF">~</span>$ █
-</pre>
-
-</td>
-</tr>
-</table>
+🎯 Deepening expertise in **Artificial Intelligence** and **Distributed Systems**  
+📚 Always learning, always growing  
+🔨 Improving software craftsmanship
 
 ---
 
-## 📊 &nbsp;`$ ./github-stats.sh`
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=github_dark&hide_border=false&border_color=00FF00&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkrishnan24&show_icons=true&theme=tokyonight&hide_border=true&title_color=2E5BFF&icon_color=2E5BFF&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=black-ice&hide_border=false&border=00FF00&stroke=00FF00&ring=00FF00&fire=FFA500&currStreakLabel=00FF00&background=0D1117" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harishkrishnan24&theme=tokyonight&hide_border=true&background=0D1117&ring=2E5BFF&fire=FF6B6B&currStreakLabel=2E5BFF" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&theme=github-compact&bg_color=0D1117&color=00FF00&line=00BFFF&point=00FF00&area=true&hide_border=false&border_color=00FF00" alt="Contribution Graph"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=tokyonight&hide_border=true&title_color=2E5BFF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harishkrishnan24&theme=tokyo-night&bg_color=0D1117&color=2E5BFF&line=4C8EDA&point=2E5BFF&area=true&hide_border=true" alt="Contribution Graph"/>
 
 </div>
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkrishnan24&layout=compact&theme=github_dark&hide_border=false&border_color=00FF00&title_color=00FF00&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages"/>
+---
 
-<img src="https://github-profile-trophy.vercel.app/?username=harishkrishnan24&theme=matrix&no-frame=false&row=1&column=7" alt="Trophies"/>
+## 🎓 Certifications
+
+<div align="center">
+
+View my professional certifications and badges on [Credly](https://www.credly.com/users/harish-krishnan.623b2d03)
+
+[![Credly Profile](https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
 
 </div>
 
 ---
 
-## 🎓 &nbsp;`$ cat certifications.json`
+## ✍️ Latest Blog Posts
 
 <div align="center">
-
-```
-[═══════════════ CERTIFICATIONS ═══════════════]
-```
-
-Visit my [Credly profile](https://www.credly.com/users/harish-krishnan.623b2d03) to view all certifications and badges.
-
-[![Credly](https://img.shields.io/badge/Credly-View_All_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
-
-</div>
-
----
-
-## 📝 &nbsp;`$ tail -f blog/latest.log`
-
-<div align="center">
-
-```
-[═══════════════ LATEST BLOG POSTS ═══════════════]
-```
-
-</div>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<div align="center">
-
-[![Medium](https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
+[![Read More on Medium](https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
 
 </div>
 
 ---
 
-## 🌟 &nbsp;`$ git log --graph --all --author="harishkrishnan24"`
+## 🌟 Open Source Contributions
 
 <div align="center">
-
-```
-[═══════════════ OPEN SOURCE CONTRIBUTIONS ═══════════════]
-```
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake-dark.svg">
@@ -167,72 +104,35 @@ Visit my [Credly profile](https://www.credly.com/users/harish-krishnan.623b2d03)
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake.svg">
 </picture>
 
-<table>
-<tr>
-<td width="50%" align="center">
+<br/><br/>
 
 <a href="https://app.daily.dev/harishkrishnan24">
-<img src="./devcard.png" width="350" alt="Harish's Dev Card"/>
+<img src="./devcard.png" width="400" alt="Harish's Dev Card"/>
 </a>
 
-</td>
-<td width="50%">
-
-<pre>
-<span style="color:#00FF00">$</span> git status
-
-On branch main
-Active contributor to:
-  ├── Open Source Projects
-  ├── Community Discussions
-  └── Code Reviews
-
-<span style="color:#00FF00">$</span> git log --oneline
-Check out my pinned 
-repositories below! 📌
-
-<span style="color:#00FF00">$</span> █
-</pre>
-
-</td>
-</tr>
-</table>
+### Check out my pinned repositories below! 👇
 
 </div>
 
 ---
 
-## 🔗 &nbsp;`$ curl -X GET connect.sh`
+## 🤝 Connect With Me
 
 <div align="center">
 
-```bash
-# Execute connection protocols
-```
-
-[![LinkedIn](https://img.shields.io/badge/>>_CONNECT_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishkrishnan1993/)
-[![Medium](https://img.shields.io/badge/>>_READ_MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
-[![StackOverflow](https://img.shields.io/badge/>>_STACKOVERFLOW-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7962294/k-harish)
-[![Credly](https://img.shields.io/badge/>>_VIEW_CREDLY-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
-[![daily.dev](https://img.shields.io/badge/>>_DAILY_DEV-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/harishkrishnan24)
-[![Portfolio](https://img.shields.io/badge/>>_PORTFOLIO-00FF00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harishkrishnan24.github.io/me/)
-
-```bash
-# Connection established successfully ✓
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishkrishnan1993/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/7962294/k-harish)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
+[![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/harishkrishnan24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E5BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harishkrishnan24.github.io/me/)
 
 </div>
 
 ---
 
 <div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  "Never stop learning. Stay curious. Build amazing things."     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<sub>⚡ This profile auto-updates daily with latest stats and blog posts</sub>
-
+<sub>💙 Open to interesting opportunities and collaborations</sub>
+<br/>
+<sub>⚡ This profile auto-updates daily with latest contributions and blog posts</sub>
 </div>
