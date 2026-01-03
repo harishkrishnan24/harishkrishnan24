@@ -24,7 +24,7 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
 ## 👨‍💻 About Me
 
@@ -52,47 +52,42 @@ roles:
   - Share knowledge through writing
 ```
 
-</td>
-<td width="45%" valign="top">
-
-<br/>
-
-<div align="center">
-<img src="./assets/harishkrishnan.jpeg" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Harish Krishnan"/>
-</div>
-
-<br/>
-
 ### 💼 Tech Stack
 
-<div align="center">
-
-#### Frontend
+**Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
-#### Backend
+**Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-#### Data & Cloud
+**Data & Cloud**  
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-#### Languages
+**Languages**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+</td>
+<td width="40%" valign="top">
+
+<br/>
+<br/>
+
+<div align="center">
+<img src="./assets/harishkrishnan.jpeg" width="320" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" alt="Harish Krishnan"/>
 </div>
 
 </td>
@@ -103,11 +98,7 @@ roles:
 
 ## 🌐 Connect & Explore
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💬 Let's Connect
+<div align="center">
 
 <a href="https://www.linkedin.com/in/harishkrishnan1993/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -115,20 +106,18 @@ roles:
 <a href="https://harishkrishnan24.github.io/me/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-2E5BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<br/>
 <a href="https://stackoverflow.com/users/7962294/k-harish" target="_blank">
   <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
 </a>
 <a href="https://harishkrishnan1993.medium.com/" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
 </a>
-<br/>
 <a href="https://www.credly.com/users/harish-krishnan.623b2d03" target="_blank">
-  <img src="https://img.shields.io/badge/Credly_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
 </a>
 
-</td>
-<td width="50%" valign="top">
+<br/>
+<br/>
 
 ### 📝 Latest from Medium
 
@@ -136,12 +125,10 @@ roles:
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://harishkrishnan1993.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Read_More-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
+  <img src="https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Read More"/>
 </a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
