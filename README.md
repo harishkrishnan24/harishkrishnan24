@@ -69,56 +69,11 @@ I'm a **Full-Stack Software Engineer** with over **7 years** of professional exp
 
 ---
 
-## 🎓 Certifications
+## 📬 Let's Connect
 
 <div align="center">
 
-View my professional certifications and badges on [Credly](https://www.credly.com/users/harish-krishnan.623b2d03)
-
-[![Credly Profile](https://img.shields.io/badge/View_All_Certifications-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
-
-</div>
-
----
-
-## ✍️ Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-[![Read More on Medium](https://img.shields.io/badge/Read_More_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
-
-</div>
-
----
-
-## 🌟 Open Source Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/harishkrishnan24/harishkrishnan24/main/github-snake.svg">
-</picture>
-
-<br/><br/>
-
-<a href="https://app.daily.dev/harishkrishnan24">
-<img src="./devcard.png" width="400" alt="Harish's Dev Card"/>
-</a>
-
-### Check out my pinned repositories below! 👇
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
+### 🤝 Find Me On
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishkrishnan1993/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://harishkrishnan1993.medium.com/)
@@ -126,6 +81,19 @@ View my professional certifications and badges on [Credly](https://www.credly.co
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/harish-krishnan.623b2d03)
 [![daily.dev](https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=dailydotdev&logoColor=white)](https://app.daily.dev/harishkrishnan24)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E5BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harishkrishnan24.github.io/me/)
+
+<br/>
+
+### 📝 Recent Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+### 🎓 Certifications
+
+View my professional certifications and verified badges on [Credly](https://www.credly.com/users/harish-krishnan.623b2d03)
 
 </div>
 
