@@ -123,7 +123,7 @@ roles:
 ## 📊 Contribution Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/harishkrishnan24?template=classic&languages=1&languages.limit=8&config.timezone=America%2FLos_Angeles" alt="Language Metrics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harishkrishnan24&theme=tokyonight" alt="Top Languages by Commit"/>
 </div>
 
 <br/>
